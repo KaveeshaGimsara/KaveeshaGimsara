@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Kaveesha Gimsara</h1>
  
 </h3>
-<img align="center" alt="GIF" src="https://c.tenor.com/0kAOWjDdqCMAAAAC/heartbeat-pulse.gif" width="999" height="150" />
+
 
 - 🌱 I am currently learning Python.
 - ❓ Ask me about anything related to my skills.
@@ -134,4 +134,5 @@
 <h1>
 
 
-<p align="center"><img src="https://monophy.com/media/BAN8YfxGKWg4U/monophy.gif" alt="inbox zero" /></p>
+![Made with love in Lanka](https://madewithlove.now.sh/lk?heart=true&colorA=%232b00ff&colorB=%2300ff26)
+
