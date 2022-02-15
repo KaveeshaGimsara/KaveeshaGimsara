@@ -45,6 +45,7 @@
   /></a>
 </div>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
 
 ## 🛠️ My favorite tools
@@ -130,4 +131,4 @@
 <hr>
 
 
-<p align="center"><img src="https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fimages%2Fcicv2ia6.gif&w=1920&q=75" alt="inbox zero" /></p>
+<p align="center"><img src="https://monophy.com/media/BAN8YfxGKWg4U/monophy.gif" alt="inbox zero" /></p>
