@@ -1,6 +1,9 @@
+
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Kaveesha Gimsara</h1>
  
 </h3>
+<img align="center" alt="GIF" src="https://c.tenor.com/0kAOWjDdqCMAAAAC/heartbeat-pulse.gif" width="999" height="150" />
 
 - 🌱 I am currently learning Python.
 - ❓ Ask me about anything related to my skills.
@@ -9,10 +12,14 @@
 - ⚙️ I use daily: `.rb`, `.js`, `.erb`, `.slim`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`, `.sql`
 - 💜 Interests:Cryptocurrency enthusiast, Travell , F*#0
 - 😄 Passionate about accessibility and committed to a web that works for everyone
-- 📫 Reach me https://kaveegimx.ml/
+- 📫 Reach me:
+  >> Kaveeshagimsara999@gmail.com  
+   https://Kaveegimx.ml./
 - 🥅 2022 Goals : Learn more about JavaScript, Next js and web3.
 
 <br />
+
+
 
 ## Connect with me
 
