@@ -75,7 +75,7 @@
 </p>
 
 <hr>
-<hr>
+
 
 ### 🧰 Frameworks and libraries
 
@@ -89,7 +89,6 @@
 </p>
 
 <hr>
-<hr>
 
 ### 🗄️ Databases and cloud hosting
 
@@ -100,7 +99,6 @@
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
 
-<hr>
 <hr>
 
 ### 💻 Software and tools
