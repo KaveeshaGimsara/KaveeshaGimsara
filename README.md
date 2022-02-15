@@ -47,9 +47,7 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
-
 ## 🛠️ My favorite tools
-<hr>
 
 
 ### 👨‍💻 Programming languages
@@ -74,7 +72,7 @@
   
 </p>
 
-<hr>
+<h1>
 
 
 ### 🧰 Frameworks and libraries
@@ -88,7 +86,7 @@
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 </p>
 
-<hr>
+<h1>
 
 ### 🗄️ Databases and cloud hosting
 
@@ -126,7 +124,7 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-<hr>
+<h1>
 
 
 <p align="center"><img src="https://monophy.com/media/BAN8YfxGKWg4U/monophy.gif" alt="inbox zero" /></p>
