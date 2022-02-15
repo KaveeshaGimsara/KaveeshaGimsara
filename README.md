@@ -52,7 +52,6 @@
   /></a>
 </div>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
 ## 🛠️ My favorite tools
 
@@ -133,6 +132,6 @@
 
 <h1>
 
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
-![Made with love in Lanka](https://madewithlove.now.sh/lk?heart=true&colorA=%232b00ff&colorB=%2300ff26)
 
