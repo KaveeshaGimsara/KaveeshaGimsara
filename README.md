@@ -7,7 +7,7 @@
 - ⚡ Fun Fact : My first line of code was not "Hello World!".
 - 🏢 Previously worked with the awesome peeps at **Bla Bla Bla**
 - ⚙️ I use daily: `.rb`, `.js`, `.erb`, `.slim`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`, `.sql`
-- 💜 Interests: huge Beyonce fan, cryptocurrency enthusiast, foodie, 🐶 Kiki
+- 💜 Interests:Cryptocurrency enthusiast, Travell , F*#0
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 - 📫 Reach me https://kaveegimx.ml/
 - 🥅 2022 Goals : Learn more about JavaScript, Next js and web3.
