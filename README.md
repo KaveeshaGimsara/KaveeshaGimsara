@@ -14,7 +14,7 @@
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 - 📫 Reach me:
   >> Kaveeshagimsara999@gmail.com  
-   https://Kaveegimx.ml./
+   https://Kaveegimx.me/
 - 🥅 2022 Goals : Learn more about JavaScript, Next js and web3.
 
 <br />
