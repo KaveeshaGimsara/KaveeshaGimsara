@@ -13,7 +13,7 @@
 - 💜 Interests:Cryptocurrency enthusiast, Travell , F*#0
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 - 📫 Reach me:
-  >> Kaveeshagimsara999@gmail.com  
+  >> Kaveegimx@gmail.com , me@kaveegimx.me
    https://Kaveegimx.me/
 - 🥅 2022 Goals : Learn more about JavaScript, Next js and web3.
 
