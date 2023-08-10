@@ -10,7 +10,7 @@
 - ⚡ Fun Fact : My first line of code was not "Hello World!".
 - 🏢 Previously worked with the awesome peeps at **Bla Bla Bla**
 - ⚙️ I use daily: `.rb`, `.js`, `.erb`, `.slim`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`, `.sql`
-- 💜 Interests:Cryptocurrency enthusiast, Travell , F*#0
+- 💜 Interests:Cryptocurrency enthusiast, Travel
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 - 📫 Reach me:
   >> Kaveegimx@gmail.com , me@kaveegimx.me ,
