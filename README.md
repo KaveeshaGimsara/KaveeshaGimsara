@@ -38,7 +38,7 @@
       alt="stackoverflow"
       style="margin-bottom: 5px"
   /></a>
-  <a href="mailto:kaveeshagimsara999@gmail.com"
+  <a href="mailto:kaveegimx@gmail.com"
     ><img
       alt="Gmail"
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
